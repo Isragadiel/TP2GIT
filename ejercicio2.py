@@ -1,3 +1,3 @@
-nombre=input("Ingrese su nombre: ")
-apellido=input("Ingrese su apellido: ")
+nombre="ariel"
+apellido="gonzalez"
 print(f"Hola {nombre} {apellido}, bienvenido a Python")
